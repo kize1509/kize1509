@@ -1,41 +1,16 @@
-# Hi there, I'm Zoran 👋
+# Zoran
 
-🚀 Software engineering student | Data-driven problem solver | AI & backend enthusiast
+Software engineering student. I build backend systems and AI pipelines, mostly retrieval (RAG). Some of that work is confidential.
 
----
+I also worked at an AWS-funded insurance startup.
 
-## 🔧 What I Do
-- 🧠 Build and experiment with **AI-driven systems** (incl. RAG pipelines for production use – confidential work)  
-- ⚙️ Design and develop **backend systems** and APIs  
-- 🗄️ Work with **databases** and data structuring strategies (SQL, relational models, probabilistic structures)  
-- 💡 Explore the intersection of **startups, business, and software innovation**  
+Languages: Python, Kotlin, Java, Go, JavaScript, C++. Tools: AWS, Azure, Git, SQL.
 
----
+## Projects
 
-## 🛠️ Tech Stack
-**Languages**: Python · Kotlin · Java · Go · JavaScript · C++  
-**Core Skills**: Algorithms & Data Structures · OOP · SQL · Probabilistic Data Structures · Data Analysis  
-**Tools**: AWS · Git · Azure  
+- [NoSQL Engine](https://github.com/IgorAmi52/NoSQL-Engine): a NoSQL database built on probabilistic data structures (with a team)
+- [Travelling Salesman](https://github.com/mrsladoje/genetic-travelling-salesman): the TSP solved with a genetic algorithm
+- [PDF Search Engine](https://github.com/kize1509/PDF-Search-Engine): PDF search ranked with PageRank
+- [Breakpoint Tracker](https://github.com/kize1509/BreakpointTrackerTool): an IntelliJ plugin that tracks active breakpoints in real time
 
----
-
-## 📌 Featured Projects
-- 🔍 **AI/Data Systems** – Developed end-to-end pipelines for information retrieval and reasoning (details confidential)  
-- 📊 **Insurance AI Solutions** – Contributed to an AWS-funded startup building next-gen insurance technology  
-- 📊 **NoSQL Engine** – Contributed to creation of a NoSQL database using probabilistic data structures and algorithms. [NoSQL-Engine](https://github.com/IgorAmi52/NoSQL-Engine)  
-- **Genetic Algorithm Project** – Solved the *Travelling Salesman* problem using a **genetic algorithm**. [Travelling Salesman](https://github.com/mrsladoje/genetic-travelling-salesman)  
-- **PDF Search Engine** – Designed a *PageRank*-driven PDF search engine. [PDF Search Engine](https://github.com/kize1509/PDF-Search-Engine)  
-- **Breakpoint Tracker Tool** – IntelliJ plugin for real-time tracking of active breakpoints. [Breakpoint Tracker](https://github.com/kize1509/BreakpointTrackerTool)  
-
----
-
-## 🌱 Currently Exploring
-- Scalable AI/ML pipelines  
-- Advanced data retrieval strategies  
-- Advanced data structuring strategies  
-- Advanced data splitting while preserving connections  
-- Graph-based approaches for RAG pipelines  
-
----
-
-*Always learning, always building.*
+Right now I'm working on graph-based retrieval for RAG.
